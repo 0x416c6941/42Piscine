@@ -1,0 +1,10 @@
+.vimrc
+*.swp
+
+# Different binary build files.
+a.out
+C09/ex00/libft.a
+C10/ex00/ft_display_file
+C10/ex01/ft_cat
+*.o
+*.d
