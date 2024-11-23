@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strlcat.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: asagymba <asagymba@student.42prague.com>   +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/11/24 00:21:57 by asagymba          #+#    #+#             */
+/*   Updated: 2024/11/24 00:21:57 by asagymba         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 /* Important note: we need to preserve 1 byte for '\0' in ft_strlcat(). */
 unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 {
